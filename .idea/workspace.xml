@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa48f9e-cb45-4ded-8fe1-7fca5f4cebdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySortedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AvgMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VarArgs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,23 +45,37 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayReverse">
-    <configuration name="ArrayMaxMinElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMaxMinElement" />
+  <component name="RunManager" selected="Application.ArraySortedOrNot">
+    <configuration name="ArrayPresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayPresent" />
       <module name="JavaPracticeCodeWithHarry" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayReverse" />
+    <configuration name="ArraySortedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySortedOrNot" />
       <module name="JavaPracticeCodeWithHarry" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern1" />
+    <configuration name="AvgMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AvgMarks" />
+      <module name="JavaPracticeCodeWithHarry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloatSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FloatSum" />
+      <module name="JavaPracticeCodeWithHarry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarArgs" />
       <module name="JavaPracticeCodeWithHarry" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,9 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayReverse" />
-        <item itemvalue="Application.ArrayMaxMinElement" />
-        <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.ArraySortedOrNot" />
+        <item itemvalue="Application.AvgMarks" />
+        <item itemvalue="Application.ArrayPresent" />
+        <item itemvalue="Application.FloatSum" />
+        <item itemvalue="Application.VarArgs" />
       </list>
     </recent_temporary>
   </component>
