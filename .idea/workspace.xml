@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa48f9e-cb45-4ded-8fe1-7fca5f4cebdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPracticeCodeWithHarry.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayMaxMinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +27,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2a4WdlwcAFTWUICJd9fcVCJJGpz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,9 +41,16 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayMaxMinElement">
+  <component name="RunManager" selected="Application.ArrayReverse">
     <configuration name="ArrayMaxMinElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayMaxMinElement" />
+      <module name="JavaPracticeCodeWithHarry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayReverse" />
       <module name="JavaPracticeCodeWithHarry" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayReverse" />
         <item itemvalue="Application.ArrayMaxMinElement" />
         <item itemvalue="Application.Pattern1" />
       </list>
