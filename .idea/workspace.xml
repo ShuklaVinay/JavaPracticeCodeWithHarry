@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa48f9e-cb45-4ded-8fe1-7fca5f4cebdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Constructor1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCylinder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Constructor1">
+  <component name="RunManager" selected="Application.MyCylinder">
     <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constructor" />
       <module name="JavaPracticeCodeWithHarry" />
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetterSetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetterSetter" />
+    <configuration name="MyCylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyCylinder" />
       <module name="JavaPracticeCodeWithHarry" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyCylinder" />
         <item itemvalue="Application.Constructor1" />
         <item itemvalue="Application.Constructor" />
         <item itemvalue="Application.GetterSetter (1)" />
         <item itemvalue="Application.GameRockPaperScissor" />
-        <item itemvalue="Application.GetterSetter" />
       </list>
     </recent_temporary>
   </component>
