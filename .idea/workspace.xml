@@ -8,14 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa48f9e-cb45-4ded-8fe1-7fca5f4cebdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListExe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorMethodException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomCalculatorWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeSetAdvancedJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserAccountMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +49,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.UserAccountMain">
     <configuration name="ArrayListExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListExe" />
       <module name="JavaPracticeCodeWithHarry" />
@@ -65,13 +59,6 @@
     </configuration>
     <configuration name="CustomCalculatorWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomCalculatorWith" />
-      <module name="JavaPracticeCodeWithHarry" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionPropagation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionPropagation" />
       <module name="JavaPracticeCodeWithHarry" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,13 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserAccountMain" />
+      <module name="JavaPracticeCodeWithHarry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserAccountMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CustomCalculatorWith" />
         <item itemvalue="Application.PracticeSetAdvancedJava" />
         <item itemvalue="Application.ArrayListExe" />
-        <item itemvalue="Application.ExceptionPropagation" />
       </list>
     </recent_temporary>
   </component>
